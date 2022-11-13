@@ -9,7 +9,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://xn--dlqs4sc0nope.online"
       ApiKey: "P2rkXGyIFehrCX1N"
-      NodeID: 210
+      NodeID: 211
       NodeType: V2ray
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
