@@ -8,9 +8,9 @@ Nodes:
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
       ApiHost: "https://xn--dlqs4sc0nope.online"
-      ApiKey: "P2rkXGyIFehrCX1N" 
-      NodeID: 1
-      NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
+      ApiKey: "P2rkXGyIFehrCX1N"
+      NodeID: 210
+      NodeType: V2ray
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
       EnableXTLS: false # Enable XTLS for V2ray and Trojan, emote configuration first
@@ -20,7 +20,7 @@ Nodes:
       EnableDNS: false # Use custom DNS config, Please ensure that you set the dns.json well
       CertConfig:
         CertMode: file # Option about how to get certificate: none, file, http, dns. Choose "none" will forcedly disable the tls config.
-        CertDomain: "node1.test.com" # Domain to cert
+        CertDomain: "node.v2board.com"
         CertFile: /etc/ssl/private/fullchain.pem # Provided if the CertMode is file
         KeyFile: /etc/ssl/private/privkey.pem
         Provider: alidns # DNS cert provider, Get the full support list here: https://go-acme.github.io/lego/dns/
