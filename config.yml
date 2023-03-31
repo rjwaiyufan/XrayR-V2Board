@@ -7,9 +7,9 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://xn--dlqs4sc0nope.online"
-      ApiKey: "P2rkXGyIFehrCX1N"
-      NodeID: 210
+      ApiHost: "https://xn--9kq87mw45d.xyz"
+      ApiKey: "BTG87QV47T3ZL8YO"
+      NodeID: 1
       NodeType: V2ray
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
