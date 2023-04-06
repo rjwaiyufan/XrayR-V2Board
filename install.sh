@@ -266,7 +266,7 @@ install_XrayR() {
     echo "------------------------------------------"
     echo "One-Step Script Based on XrayR-Release"
     echo "Telegram: https://t.me/missuo"
-    echo "Github: https://github.com/missuo/XrayR-V2Board"
+    echo "Github: https://github.com/rjwaiyufan/XrayR-V2Board"
     echo "Powered by Vincent"
 }
 
