@@ -10,7 +10,7 @@ Nodes:
       ApiHost: "https://wooturtle.cloud"
       ApiKey: "4r83ufjsijag243r9u209ri3242rwef2323"
       NodeID: 1
-      NodeType: V2ray
+      NodeType: Shadowsocks
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
       EnableXTLS: false # Enable XTLS for V2ray and Trojan, emote configuration first
